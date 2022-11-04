@@ -1,7 +1,6 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "https://dosacat.github.io/react-gh-pages",
   "private": true,
   "dependencies": {
     "@faker-js/faker": "^7.6.0",

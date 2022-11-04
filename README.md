@@ -1,6 +1,6 @@
 Creed&Bear2.2 contains the following features:
 *****************************************************************
-
+// "homepage": "https://dosacat.github.io/react-gh-pages",
 2.2: Services used: 1.1, 1.2, 1.3 
 The module contains the following criteria:
     1. Creation of a new user 

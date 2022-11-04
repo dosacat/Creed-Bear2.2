@@ -1,6 +1,7 @@
 Creed&Bear2.2 contains the following features:
 *****************************************************************
 Link to site: https://dosacat.github.io/Creed-Bear2.2
+
 2.2: Services used: 1.1, 1.2, 1.3 
 The module contains the following criteria:
     1. Creation of a new user 
@@ -16,14 +17,12 @@ HOW TO RUN ON PERSONAL SYSTEM
 
 ******************************************************************************
 SAMPLE RESPONSE 
+![image](https://user-images.githubusercontent.com/98118185/199976660-8e4d1ce3-19f4-4bc0-9d33-0318d992dcce.png)
+![image](https://user-images.githubusercontent.com/98118185/199976732-575ce904-1ddc-401b-8382-e22b336ecd54.png)
+![image](https://user-images.githubusercontent.com/98118185/199976819-4338aecb-2494-4c22-9dc9-bf5a28c1bf34.png)
+![image](https://user-images.githubusercontent.com/98118185/199977337-564df9f7-3994-4268-ab03-b9f21145b569.png)
 
-
-
-
-
-
-
-
+******************************************************************************
 
 # Getting Started with Create React App
 

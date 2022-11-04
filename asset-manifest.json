@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Creed-Bear2.2/static/css/main.920a97e1.css",
-    "main.js": "/Creed-Bear2.2/static/js/main.93236827.js",
+    "main.js": "/Creed-Bear2.2/static/js/main.891e9fe3.js",
     "index.html": "/Creed-Bear2.2/index.html",
     "main.920a97e1.css.map": "/Creed-Bear2.2/static/css/main.920a97e1.css.map",
-    "main.93236827.js.map": "/Creed-Bear2.2/static/js/main.93236827.js.map"
+    "main.891e9fe3.js.map": "/Creed-Bear2.2/static/js/main.891e9fe3.js.map"
   },
   "entrypoints": [
     "static/css/main.920a97e1.css",
-    "static/js/main.93236827.js"
+    "static/js/main.891e9fe3.js"
   ]
 }
